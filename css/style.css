@@ -164,7 +164,7 @@ body {
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     top: 50%;
-    left: 100%;
+    left: 90%;
     transform: translate3d(-51px, -20px, 0px);
     -webkit-transform: translate3d(-51px, -20px, 0px);
     -moz-transform: translate3d(-51px, -20px, 0px);
@@ -593,7 +593,7 @@ body {
     position: absolute;
     height: 108px;
     width: 236.58px;
-    top: 7px;
+    top: 13px;
     left: 0px;
 }
 
